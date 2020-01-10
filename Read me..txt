@@ -1,0 +1,10 @@
+Wenn IIS noch nicht aktiviert oder Installiert (standard mäßig mit Visual Studio) worden ist, kann man es folgendermaßen aktivieren
+	1.) "Systemsteuerung" öffnen
+	2.) Reiter "Programme" auswählen
+	3.) Unterpunkt, von "Programme und Feature", "Windows-Feature aktivieren oder deaktivieren" auswählen
+	4.) den Haken bei "Internetinformationsdienste" setzen
+	
+Wenn der Obrige schritt befolgt worden ist,kann die batch datei "Start.bat" ausgeführt werden. Dies starten den Webserver.
+Über die URL "http://localhost:8080/" ist das Programm erreichbar.
+
+//Anleitung von Fabian Post

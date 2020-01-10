@@ -1,0 +1,149 @@
+C:\Projects\FussballLiga\FussballLiga\bin\FussballLiga.dll.config
+C:\Projects\FussballLiga\FussballLiga\bin\FussballLiga.dll
+C:\Projects\FussballLiga\FussballLiga\bin\FussballLiga.pdb
+C:\Projects\FussballLiga\FussballLiga\bin\roslyn\csc.exe
+C:\Projects\FussballLiga\FussballLiga\bin\roslyn\csc.exe.config
+C:\Projects\FussballLiga\FussballLiga\bin\roslyn\csc.rsp
+C:\Projects\FussballLiga\FussballLiga\bin\roslyn\csi.exe
+C:\Projects\FussballLiga\FussballLiga\bin\roslyn\csi.exe.config
+C:\Projects\FussballLiga\FussballLiga\bin\roslyn\csi.rsp
+C:\Projects\FussballLiga\FussballLiga\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projects\FussballLiga\FussballLiga\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\FussballLiga\FussballLiga\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Projects\FussballLiga\FussballLiga\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projects\FussballLiga\FussballLiga\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Projects\FussballLiga\FussballLiga\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projects\FussballLiga\FussballLiga\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projects\FussballLiga\FussballLiga\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Projects\FussballLiga\FussballLiga\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Projects\FussballLiga\FussballLiga\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Projects\FussballLiga\FussballLiga\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projects\FussballLiga\FussballLiga\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Projects\FussballLiga\FussballLiga\bin\roslyn\System.AppContext.dll
+C:\Projects\FussballLiga\FussballLiga\bin\roslyn\System.Collections.Immutable.dll
+C:\Projects\FussballLiga\FussballLiga\bin\roslyn\System.Console.dll
+C:\Projects\FussballLiga\FussballLiga\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Projects\FussballLiga\FussballLiga\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Projects\FussballLiga\FussballLiga\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Projects\FussballLiga\FussballLiga\bin\roslyn\System.Globalization.Calendars.dll
+C:\Projects\FussballLiga\FussballLiga\bin\roslyn\System.IO.Compression.dll
+C:\Projects\FussballLiga\FussballLiga\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Projects\FussballLiga\FussballLiga\bin\roslyn\System.IO.FileSystem.dll
+C:\Projects\FussballLiga\FussballLiga\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Projects\FussballLiga\FussballLiga\bin\roslyn\System.Net.Http.dll
+C:\Projects\FussballLiga\FussballLiga\bin\roslyn\System.Net.Sockets.dll
+C:\Projects\FussballLiga\FussballLiga\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projects\FussballLiga\FussballLiga\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Projects\FussballLiga\FussballLiga\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Projects\FussballLiga\FussballLiga\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Projects\FussballLiga\FussballLiga\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Projects\FussballLiga\FussballLiga\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Projects\FussballLiga\FussballLiga\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Projects\FussballLiga\FussballLiga\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Projects\FussballLiga\FussballLiga\bin\roslyn\System.ValueTuple.dll
+C:\Projects\FussballLiga\FussballLiga\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Projects\FussballLiga\FussballLiga\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Projects\FussballLiga\FussballLiga\bin\roslyn\System.Xml.XPath.dll
+C:\Projects\FussballLiga\FussballLiga\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Projects\FussballLiga\FussballLiga\bin\roslyn\vbc.exe
+C:\Projects\FussballLiga\FussballLiga\bin\roslyn\vbc.exe.config
+C:\Projects\FussballLiga\FussballLiga\bin\roslyn\vbc.rsp
+C:\Projects\FussballLiga\FussballLiga\bin\roslyn\VBCSCompiler.exe
+C:\Projects\FussballLiga\FussballLiga\bin\roslyn\VBCSCompiler.exe.config
+C:\Projects\FussballLiga\FussballLiga\bin\Antlr3.Runtime.dll
+C:\Projects\FussballLiga\FussballLiga\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Projects\FussballLiga\FussballLiga\bin\AspNet.ScriptManager.jQuery.dll
+C:\Projects\FussballLiga\FussballLiga\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Projects\FussballLiga\FussballLiga\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Projects\FussballLiga\FussballLiga\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects\FussballLiga\FussballLiga\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Projects\FussballLiga\FussballLiga\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Projects\FussballLiga\FussballLiga\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\FussballLiga\FussballLiga\bin\Newtonsoft.Json.dll
+C:\Projects\FussballLiga\FussballLiga\bin\System.Web.Optimization.dll
+C:\Projects\FussballLiga\FussballLiga\bin\WebGrease.dll
+C:\Projects\FussballLiga\FussballLiga\bin\System.Web.Optimization.xml
+C:\Projects\FussballLiga\FussballLiga\bin\Newtonsoft.Json.xml
+C:\Projects\FussballLiga\FussballLiga\bin\Antlr3.Runtime.pdb
+C:\Projects\FussballLiga\FussballLiga\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Projects\FussballLiga\FussballLiga\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects\FussballLiga\FussballLiga\bin\de\System.Web.Optimization.resources.dll
+C:\Projects\FussballLiga\FussballLiga\bin\de\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Projects\FussballLiga\FussballLiga\obj\Debug\FussballLiga.csproj.CopyComplete
+C:\Projects\FussballLiga\FussballLiga\obj\Debug\FussballLiga.dll
+C:\Projects\FussballLiga\FussballLiga\obj\Debug\FussballLiga.pdb
+C:\Projects\FussballLiga\FussballLiga\obj\Debug\FussballLiga.csprojAssemblyReference.cache
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\FussballLiga.dll.config
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\FussballLiga.dll
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\FussballLiga.pdb
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\roslyn\csc.exe
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\roslyn\csc.exe.config
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\roslyn\csc.rsp
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\roslyn\csi.exe
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\roslyn\csi.exe.config
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\roslyn\csi.rsp
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\roslyn\System.AppContext.dll
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\roslyn\System.Console.dll
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\roslyn\System.IO.Compression.dll
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\roslyn\System.Net.Http.dll
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\roslyn\System.ValueTuple.dll
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\roslyn\vbc.exe
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\roslyn\vbc.exe.config
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\roslyn\vbc.rsp
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\roslyn\VBCSCompiler.exe
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\Antlr3.Runtime.dll
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\Newtonsoft.Json.dll
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\System.Web.Optimization.dll
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\WebGrease.dll
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\System.Web.Optimization.xml
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\Newtonsoft.Json.xml
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\Antlr3.Runtime.pdb
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\de\System.Web.Optimization.resources.dll
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\bin\de\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\obj\Debug\FussballLiga.csproj.CopyComplete
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\obj\Debug\FussballLiga.dll
+C:\Users\Marius\Desktop\Web Projekt\FussballLiga\FussballLiga\obj\Debug\FussballLiga.pdb
